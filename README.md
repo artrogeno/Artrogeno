@@ -7,4 +7,4 @@ Some tecnologies I enjoy working with Javascript Vanilla, Typescript, Angular, R
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Silva-466432?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-costa-da-silva/)](https://www.linkedin.com/in/arthur-costa-da-silva/)
 [![Twitter Badge](https://img.shields.io/badge/-@artrogeno-466432?style=flat-square&labelColor=466432&logo=twitter&logoColor=white&link=https://twitter.com/artrogeno)](https://twitter.com/artrogeno)
-[![Gmail Badge](https://img.shields.io/badge/-artrogeno@gmail.com-466432?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artrogeno@gmail.com)](mailto:artrogeno@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-root.arthur@gmail.com-466432?style=flat-square&logo=Gmail&logoColor=white&link=mailto:root.arthur@gmail.com)](mailto:root.arthur@gmail.com)
