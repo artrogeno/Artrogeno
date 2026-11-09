@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Artrogeno/Artrogeno/master/banner-header-cropped.jpg" alt="banner that says Arthur SIlva - software Developer, Specialist in Javascript Vanilla, Typescript, Angular, React, NodeJS">
+<img src="https://raw.githubusercontent.com/Artrogeno/Artrogeno/master/github-profile.png" alt="banner that says Arthur SIlva - software Developer, Specialist in Javascript Vanilla, Typescript, Angular, React, NodeJS">
 
 # Arthur Silva
 
